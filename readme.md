@@ -5,6 +5,7 @@ This infection mod is a clone of binf mod. Based on Teeworlds 0.6.However some f
 ## New features ##
 * Added heroes.
 * New Hero Skill: HeroAura, which can heal infections.
+* Added tele tile.
 
 
 # Teeworlds Infection-Fun Mod #
